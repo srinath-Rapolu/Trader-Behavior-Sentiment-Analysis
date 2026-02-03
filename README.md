@@ -118,7 +118,7 @@ Explored relationships between:
 
 ## 📁 Files Included
 
-- `notebook.ipynb` → Complete analysis notebook  
+- `Trade_behavior_sentiment_analysis.ipynb` → Complete analysis notebook  
 - `README.md` → Project documentation  
 
 ---
